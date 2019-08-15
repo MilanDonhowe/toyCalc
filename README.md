@@ -7,11 +7,18 @@ This is a simple terminal calculator written in C with the ncurses library.  The
 Photos coming soon!
 
 ## usage
+1. Get ncurses library if not already installed.
+
+2. Compile the program :)
 ```bash
 git clone https://www.github.com/MilanDonhowe/toyCalc
-cd toyCalc/bin
+cd toyCalc
+make
 ./calc
 ```
+
+Alternatively you could just run the already compiled file under bin, however your results may vary.
+
 Enjoy!
 
 ## Known issues
