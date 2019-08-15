@@ -9,8 +9,7 @@ Photos coming soon!
 ## usage
 ```bash
 git clone https://www.github.com/MilanDonhowe/toyCalc
-cd toyCalc
-make
+cd toyCalc/bin
 ./calc
 ```
 Enjoy!
