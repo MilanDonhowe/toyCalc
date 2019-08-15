@@ -22,7 +22,7 @@ Enjoy!
 
 ## Known issues
 
-**Why is the top and bottom of the calculator broken?
+** Why is the top and bottom of the calculator broken? **
 
 This is due to a problem with terminal emulators.  In order to fix it change your $TERM variable from "xterm" to the actual name of the terminal emulator you're using such as "putty" (for SSHing with PuTTy) or "gnome" (for GNOME desktop clients).
 
